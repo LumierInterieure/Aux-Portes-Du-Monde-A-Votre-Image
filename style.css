@@ -1,0 +1,673 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Dancing+Script:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Dancing+Script:wght@500&family=Eczar&display=swap');
+
+
+/********************Media Queries*******************/
+
+
+@media screen and (max-width: 3680px)
+{
+#nomDesCreateurs
+{
+               font-size: 5.75em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 805px;
+               margin-left: 1437.5px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 5.75em;
+}
+#deuxiemeTitre
+{
+               font-size: 5.75em;
+}
+#texte
+{
+               font-size: 1.5em;
+}
+footer 
+{
+  font-size: 1.15em;
+}
+}
+
+
+@media screen and (max-width: 2920px)
+{
+#nomDesCreateurs
+{
+               font-size: 5.25em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 735px;
+               margin-left: 1312.5px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 5.25em;
+}
+#deuxiemeTitre
+{
+               font-size: 5.25em;
+}
+#texte
+{
+               font-size: 1.5em;
+}
+footer 
+{
+  font-size: 1.1em;
+}
+}
+
+
+@media screen and (max-width: 2560px)
+{
+#nomDesCreateurs
+{
+               font-size: 4em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 560px;
+               margin-left: 1000px;
+}
+               footer 
+               {
+                 font-size: 1.05em;
+               }
+
+
+
+#premierTitre
+{
+               font-size: 4em;
+}
+#deuxiemeTitre
+{
+               font-size: 4em;
+}
+#texte
+{
+               font-size: 1.5em;
+}
+ footer 
+  {
+    font-size: 1em;
+  }
+}
+
+
+@media screen and (max-width: 2400px)
+{
+#nomDesCreateurs
+{
+               font-size: 3.75em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 525px;
+               margin-left: 937.5px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 3.75em;
+}
+#deuxiemeTitre
+{
+               font-size: 3.75em;
+}
+#texte
+{
+               font-size: 1.5em;
+}
+footer 
+{
+  font-size: 0.95em;
+}
+}
+
+
+@media screen and (max-width: 2240px)
+{
+#nomDesCreateurs
+{
+               font-size: 3.5em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 490px;
+               margin-left: 875px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 3.5em;
+}
+#deuxiemeTitre
+{
+               font-size: 3.5em;
+}
+#texte
+{
+               font-size: 1.5em;
+}
+footer 
+{
+  font-size: 0.90em;
+}
+}
+
+
+@media screen and (max-width: 1920px)
+{
+#nomDesCreateurs
+{
+               font-size: 3em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 420px;
+               margin-left: 750px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 3em;
+}
+#deuxiemeTitre
+{
+               font-size: 3em;
+}
+#texte
+{
+               font-size: 1.5em;
+}
+footer 
+{
+  font-size: 0.85em;
+}
+}
+
+
+@media screen and (max-width: 1600px)
+{
+#nomDesCreateurs
+{
+               font-size: 2.5em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 350px;
+               margin-left: 625px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 2.5em;
+}
+#deuxiemeTitre
+{
+               font-size: 2.5em;
+}
+#texte
+{
+               font-size: 1.5em;
+}
+footer 
+{
+  font-size: 0.80em;
+}
+}
+
+
+@media screen and (max-width: 1280px)
+{
+#nomDesCreateurs
+{
+               font-size: 2.25em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 280px;
+               margin-left: 500px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 2.25em;
+}
+#deuxiemeTitre
+{
+               font-size: 2.25em;
+}
+#texte
+{
+               font-size: 1.25em;
+}
+footer 
+{
+  font-size: 0.75em;
+}
+}
+
+
+@media screen and (max-width: 1120px)
+{
+#nomDesCreateurs
+{
+               font-size: 2em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 245px;
+               margin-left: 437.5px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 2em;
+}
+#deuxiemeTitre
+{
+               font-size: 2em;
+}
+#texte
+{
+               font-size: 1.25em;
+}
+footer 
+{
+  font-size: 0.70em;
+}
+}
+
+
+@media screen and (max-width: 960px)
+{
+#nomDesCreateurs
+{
+               font-size: 1.75em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 210px;
+               margin-left: 375px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 1.75em;
+}
+#deuxiemeTitre
+{
+               font-size: 1.75em;
+}
+#texte
+{
+               font-size: 1em;
+}
+footer 
+{
+  font-size: 0.65em;
+}
+}
+
+
+@media screen and (max-width: 800px)
+{
+#nomDesCreateurs
+{
+               font-size: 1.5em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 175px;
+               margin-left: 312.5px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 1.5em;
+}
+#deuxiemeTitre
+{
+               font-size: 1.5em;
+}
+#texte
+{
+               font-size: 1em;
+}
+footer 
+{
+  font-size: 0.60em;
+}
+}
+
+
+@media screen and (max-width: 640px)
+{
+#nomDesCreateurs
+{
+               font-size: 1.25em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 140px;
+               margin-left: 250px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 1.25em;
+}
+#deuxiemeTitre
+{
+               font-size: 1.25em;
+}
+#texte
+{
+               font-size: 1em;
+}
+footer 
+{
+  font-size: 0.55em;
+}
+}
+
+
+@media screen and (max-width: 560px)
+{
+#nomDesCreateurs
+{
+               font-size: 0.95em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 122.5px;
+               margin-left: 218.75px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 0.95em;
+}
+#deuxiemeTitre
+{
+               font-size: 0.95em;
+}
+#texte
+{
+               font-size: 0.75em;
+}
+footer 
+{
+  font-size: 0.50em;
+}
+}
+
+
+@media screen and (max-width: 480px)
+{
+#nomDesCreateurs
+{
+               font-size: 0.90em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 105px;
+               margin-left: 187.5px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 0.90em;
+}
+#deuxiemeTitre
+{
+               font-size: 0.90em;
+}
+#texte
+{
+               font-size: 0.75em;
+}
+footer 
+{
+  font-size: 0.45em;
+}
+}
+
+
+@media screen and (max-width: 400px)
+{
+#nomDesCreateurs
+{
+               font-size: 0.85em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 87.5px;
+               margin-left: 156.25px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 0.85em;
+}
+#deuxiemeTitre
+{
+               font-size: 0.85em;
+}
+#texte
+{
+               font-size: 0.75em;
+}
+footer 
+{
+  font-size: 0.40em;
+}
+}
+
+
+@media screen and (max-width: 360px)
+{
+#nomDesCreateurs
+{
+               font-size: 0.80em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 78.75px;
+               margin-left: 140.625px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 0.80em;
+}
+#deuxiemeTitre
+{
+               font-size: 0.80em;
+}
+#texte
+{
+               font-size: 0.75em;
+}
+footer 
+{
+  font-size: 0.35em;
+}
+}
+
+
+@media screen and (max-width: 320px) and (min-width: 0px)
+{
+#nomDesCreateurs
+{
+               font-size: 0.75em;
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 70px;
+               margin-left: 125px;
+               
+}
+
+
+#premierTitre
+{
+               font-size: 0.75em;
+}
+#deuxiemeTitre
+{
+               font-size: 0.75em;
+}
+#texte
+{
+               font-size: 0.75em;
+}
+footer 
+{
+  font-size: 0.30em;
+}
+}
+
+
+
+/********************Barre Fixe*******************/
+
+
+
+#barreFixe
+{
+               color:  bisque;
+               background-color :#000000;
+               border-top: #ffffff 2px solid;
+               border-bottom: #ffffff 2px solid;
+               position : fixed;
+               opacity: 90%;
+               width: 100%;
+               margin-left: -8px;
+}
+
+/********************Aspect visuel du fond******/
+
+body
+{
+               background-color: rgb(195, 220, 255);
+}
+
+/********************Texte*******************/
+
+
+#titres
+{
+               text-align: center;
+               padding-top: 7.5%;
+}
+
+a 
+{
+               color: #ffffff;
+               text-decoration: none;
+}
+
+#texte
+{
+               
+               width: 85%;
+               margin-left: 3%;
+               text-align: center;
+               font-family: Eczar, 'Courier New', Courier, monospace;
+               padding-left: 4%;
+               padding-right: 4%;
+}
+
+p
+{
+               width: 90%;
+               margin-left: 2%;
+               text-align: center;
+               font-family: Eczar, 'Courier New', Courier, monospace;
+               border-radius: 8px;
+               padding-left: 3%;
+               padding-right: 3%;
+               padding-top: 1.5%;
+               padding-bottom: 1.5%;
+               border: #000000 solid 3px;
+}
+
+#texte1
+{
+               background-color: rgba(255, 228, 196, 0.712);
+}
+
+#texte2
+{
+               background-color: rgba(75, 151, 180, 0.712);
+}
+
+#texte3
+{
+background-color: rgb(125, 189, 144);
+}
+
+#texte4
+{
+               background-color: rgba(134, 153, 206, 0.712);
+}
+
+#texte5
+{
+               background-color: rgba(212, 153, 153, 0.712);
+}
+
+#premierTitre
+{
+               font-family: Amatic SC, 'Courier New', Courier, monospace;
+               
+}
+
+#deuxiemeTitre
+{
+               font-family: Dancing Script, 'Courier New', Courier, monospace;
+}
+
+
+/****************footer********************/
+
+#piedDePage
+{
+               text-align: center;
+}
+
+footer {
+               padding: 2% 2%;
+               background: #a1a1a1;
+               color: white;
+               width: 101%;
+               margin-left: -2%;
+               margin-bottom: -2%;
+             }

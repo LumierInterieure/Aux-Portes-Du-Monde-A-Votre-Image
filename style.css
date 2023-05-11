@@ -569,7 +569,7 @@ footer
                position : fixed;
                opacity: 90%;
                width: 101%;
-               margin-left: -1%;
+               margin-left: -2%;
 }
 
 /********************Aspect visuel du fond******/
@@ -670,4 +670,13 @@ footer {
                width: 101%;
                margin-left: -2%;
                margin-bottom: -2%;
+               height: 70px;
+             }
+
+
+             img
+             {
+              float: left;
+              width: 3%;
+              padding-left: 3%;
              }

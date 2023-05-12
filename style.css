@@ -5,6 +5,7 @@
 
 
 /********************Media Queries*******************/
+/********************Media Queries*******************/
 
 
 @media screen and (max-width: 3680px)
@@ -12,10 +13,6 @@
 #nomDesCreateurs
 {
                font-size: 5.75em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 805px;
-               margin-left: 1437.5px;
                
 }
 
@@ -24,10 +21,7 @@
 {
                font-size: 5.75em;
 }
-#deuxiemeTitre
-{
-               font-size: 5.75em;
-}
+
 #texte
 {
                font-size: 1.5em;
@@ -44,10 +38,6 @@ footer
 #nomDesCreateurs
 {
                font-size: 5.25em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 735px;
-               margin-left: 1312.5px;
                
 }
 
@@ -56,10 +46,7 @@ footer
 {
                font-size: 5.25em;
 }
-#deuxiemeTitre
-{
-               font-size: 5.25em;
-}
+
 #texte
 {
                font-size: 1.5em;
@@ -76,10 +63,6 @@ footer
 #nomDesCreateurs
 {
                font-size: 4em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 560px;
-               margin-left: 1000px;
 }
                footer 
                {
@@ -92,10 +75,7 @@ footer
 {
                font-size: 4em;
 }
-#deuxiemeTitre
-{
-               font-size: 4em;
-}
+
 #texte
 {
                font-size: 1.5em;
@@ -112,10 +92,6 @@ footer
 #nomDesCreateurs
 {
                font-size: 3.75em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 525px;
-               margin-left: 937.5px;
                
 }
 
@@ -124,10 +100,7 @@ footer
 {
                font-size: 3.75em;
 }
-#deuxiemeTitre
-{
-               font-size: 3.75em;
-}
+
 #texte
 {
                font-size: 1.5em;
@@ -144,10 +117,6 @@ footer
 #nomDesCreateurs
 {
                font-size: 3.5em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 490px;
-               margin-left: 875px;
                
 }
 
@@ -156,13 +125,10 @@ footer
 {
                font-size: 3.5em;
 }
-#deuxiemeTitre
-{
-               font-size: 3.5em;
-}
+
 #texte
 {
-               font-size: 1.5em;
+               font-size: 1.7em;
 }
 footer 
 {
@@ -175,26 +141,19 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 3em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 420px;
-               margin-left: 750px;
+               font-size: 3.2em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 3em;
+               font-size: 3.2em;
 }
-#deuxiemeTitre
-{
-               font-size: 3em;
-}
+
 #texte
 {
-               font-size: 1.5em;
+               font-size: 1.7em;
 }
 footer 
 {
@@ -207,26 +166,19 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 2.5em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 350px;
-               margin-left: 625px;
+               font-size: 2.6em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 2.5em;
+               font-size: 2.6em;
 }
-#deuxiemeTitre
-{
-               font-size: 2.5em;
-}
+
 #texte
 {
-               font-size: 1.5em;
+               font-size: 1.6em;
 }
 footer 
 {
@@ -239,30 +191,23 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 2.25em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 280px;
-               margin-left: 500px;
+               font-size: 2.35em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 2.25em;
+               font-size: 2.35em;
 }
-#deuxiemeTitre
-{
-               font-size: 2.25em;
-}
+
 #texte
 {
-               font-size: 1.25em;
+               font-size: 1.35em;
 }
 footer 
 {
-  font-size: 0.75em;
+  font-size: 0.85em;
 }
 }
 
@@ -271,30 +216,23 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 2em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 245px;
-               margin-left: 437.5px;
+               font-size: 2.1em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 2em;
+               font-size: 2.1em;
 }
-#deuxiemeTitre
-{
-               font-size: 2em;
-}
+
 #texte
 {
-               font-size: 1.25em;
+               font-size: 1.35em;
 }
 footer 
 {
-  font-size: 0.70em;
+  font-size: 0.80em;
 }
 }
 
@@ -303,30 +241,23 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 1.75em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 210px;
-               margin-left: 375px;
+               font-size: 1.85em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 1.75em;
+               font-size: 1.85em;
 }
-#deuxiemeTitre
-{
-               font-size: 1.75em;
-}
+
 #texte
 {
-               font-size: 1em;
+               font-size: 1.1em;
 }
 footer 
 {
-  font-size: 0.65em;
+  font-size: 0.75em;
 }
 }
 
@@ -335,30 +266,23 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 1.5em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 175px;
-               margin-left: 312.5px;
+               font-size: 1.6em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 1.5em;
+               font-size: 1.6em;
 }
-#deuxiemeTitre
-{
-               font-size: 1.5em;
-}
+
 #texte
 {
-               font-size: 1em;
+               font-size: 1.1em;
 }
 footer 
 {
-  font-size: 0.60em;
+  font-size: 0.70em;
 }
 }
 
@@ -367,30 +291,23 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 1.25em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 140px;
-               margin-left: 250px;
+               font-size: 1.35em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 1.25em;
+               font-size: 1.35em;
 }
-#deuxiemeTitre
-{
-               font-size: 1.25em;
-}
+
 #texte
 {
-               font-size: 1em;
+               font-size: 1.1em;
 }
 footer 
 {
-  font-size: 0.55em;
+  font-size: 0.65em;
 }
 }
 
@@ -399,30 +316,23 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 0.95em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 122.5px;
-               margin-left: 218.75px;
+               font-size: 1.05em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 0.95em;
+               font-size: 1.05em;
 }
-#deuxiemeTitre
-{
-               font-size: 0.95em;
-}
+
 #texte
 {
-               font-size: 0.75em;
+               font-size: 0.95em;
 }
 footer 
 {
-  font-size: 0.50em;
+  font-size: 0.60em;
 }
 }
 
@@ -431,30 +341,23 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 0.90em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 105px;
-               margin-left: 187.5px;
+               font-size: 1em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 0.90em;
+               font-size: 1em;
 }
-#deuxiemeTitre
-{
-               font-size: 0.90em;
-}
+
 #texte
 {
-               font-size: 0.75em;
+               font-size: 0.85em;
 }
 footer 
 {
-  font-size: 0.45em;
+  font-size: 0.55em;
 }
 }
 
@@ -463,30 +366,23 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 0.85em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 87.5px;
-               margin-left: 156.25px;
+               font-size: 0.95em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 0.85em;
+               font-size: 0.95em;
 }
-#deuxiemeTitre
-{
-               font-size: 0.85em;
-}
+
 #texte
 {
-               font-size: 0.75em;
+               font-size: 0.85em;
 }
 footer 
 {
-  font-size: 0.40em;
+  font-size: 0.50em;
 }
 }
 
@@ -495,30 +391,23 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 0.80em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 78.75px;
-               margin-left: 140.625px;
+               font-size: 0.90em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 0.80em;
+               font-size: 0.90em;
 }
-#deuxiemeTitre
-{
-               font-size: 0.80em;
-}
+
 #texte
 {
-               font-size: 0.75em;
+               font-size: 0.85em;
 }
 footer 
 {
-  font-size: 0.35em;
+  font-size: 0.45em;
 }
 }
 
@@ -527,34 +416,25 @@ footer
 {
 #nomDesCreateurs
 {
-               font-size: 0.75em;
-               font-family: Pacifico, Arial, Helvetica, sans-serif;
-               text-align: center;
-               width: 70px;
-               margin-left: 125px;
+               font-size: 0.85em;
                
 }
 
 
 #premierTitre
 {
-               font-size: 0.75em;
+               font-size: 0.85em;
 }
-#deuxiemeTitre
-{
-               font-size: 0.75em;
-}
+
 #texte
 {
-               font-size: 0.75em;
+               font-size: 0.85em;
 }
 footer 
 {
-  font-size: 0.30em;
+  font-size: 0.40em;
 }
 }
-
-
 
 /********************Barre Fixe*******************/
 
@@ -570,6 +450,16 @@ footer
                opacity: 90%;
                width: 101%;
                margin-left: -2%;
+}
+
+
+#nomDesCreateurs
+{
+               font-family: Pacifico, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 20%;
+               margin-left: 40%;
+               
 }
 
 /********************Aspect visuel du fond******/
